@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation — readme-typing-svg by DenverCoder9 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🗂️+Organisateur+de+Fichiers;File+Organizer+v1.0.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Organisateur+de+Fichiers;File+Organizer+v1.0.0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Tech Stack Badges -->
-### 🛠️ Stack Technique
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Stack Technique
 
 <!-- Bash -->
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
@@ -39,34 +39,34 @@
 
 ---
 
-## ✨ Fonctionnalités
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="Features" width="25" height="25" /> Fonctionnalités
 
 | Fonctionnalité | Description |
 |---|---|
-| 📂 **Tri automatique** | Classe les fichiers dans des dossiers selon leur extension |
-| 🔍 **Mode simulation** | Prévisualise ce qui serait fait sans modifier quoi que ce soit |
-| 📋 **Journal (log)** | Enregistre toutes les actions dans `organizer.log` |
-| 📁 **Répertoire personnalisé** | Spécifiez n'importe quel répertoire en argument |
-| 🛡️ **Gestion des erreurs** | Gère les conflits de noms, permissions refusées, etc. |
-| 🎨 **Affichage coloré** | Interface terminal claire et lisible avec icônes |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="20" height="20" /> **Tri automatique** | Classe les fichiers dans des dossiers selon leur extension |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" /> **Mode simulation** | Prévisualise ce qui serait fait sans modifier quoi que ce soit |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Log" width="20" height="20" /> **Journal (log)** | Enregistre toutes les actions dans `organizer.log` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Custom" width="20" height="20" /> **Répertoire personnalisé** | Spécifiez n'importe quel répertoire en argument |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20" /> **Gestion des erreurs** | Gère les conflits de noms, permissions refusées, etc. |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Colors" width="20" height="20" /> **Affichage coloré** | Interface terminal claire et lisible avec icônes |
 
 ---
 
-## 📁 Catégories gérées
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Categories" width="25" height="25" /> Catégories gérées
 
 | Dossier | Extensions |
 |---|---|
-| 📷 `Images` | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.svg`, `.webp`, `.tiff`, `.ico` |
-| 📄 `Documents` | `.pdf`, `.docx`, `.doc`, `.txt`, `.odt`, `.xlsx`, `.csv`, `.pptx`, `.md` |
-| 🎬 `Vidéos` | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv`, `.flv`, `.webm`, `.mpeg` |
-| 🎵 `Musique` | `.mp3`, `.wav`, `.ogg`, `.flac`, `.aac`, `.m4a`, `.wma`, `.opus` |
-| 🗜️ `Archives` | `.zip`, `.tar`, `.gz`, `.bz2`, `.7z`, `.rar`, `.xz`, `.tgz` |
-| 💻 `Code` | `.sh`, `.py`, `.js`, `.ts`, `.html`, `.css`, `.json`, `.php`, `.java` |
-| 📦 `Autres` | Tout ce qui ne correspond à aucune catégorie ci-dessus |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Images" width="20" height="20" /> `Images` | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.svg`, `.webp`, `.tiff`, `.ico` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Documents" width="20" height="20" /> `Documents` | `.pdf`, `.docx`, `.doc`, `.txt`, `.odt`, `.xlsx`, `.csv`, `.pptx`, `.md` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Videos" width="20" height="20" /> `Vidéos` | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv`, `.flv`, `.webm`, `.mpeg` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Music" width="20" height="20" /> `Musique` | `.mp3`, `.wav`, `.ogg`, `.flac`, `.aac`, `.m4a`, `.wma`, `.opus` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Archives" width="20" height="20" /> `Archives` | `.zip`, `.tar`, `.gz`, `.bz2`, `.7z`, `.rar`, `.xz`, `.tgz` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Code" width="20" height="20" /> `Code` | `.sh`, `.py`, `.js`, `.ts`, `.html`, `.css`, `.json`, `.php`, `.java` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cardboard%20Box.png" alt="Others" width="20" height="20" /> `Autres` | Tout ce qui ne correspond à aucune catégorie ci-dessus |
 
 ---
 
-## 🚀 Installation & Utilisation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Installation" width="25" height="25" /> Installation & Utilisation
 
 ### 1. Cloner / télécharger le projet
 
@@ -110,7 +110,7 @@ chmod +x create_test_files.sh
 
 ---
 
-## 🧪 Tester sans risque
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="25" height="25" /> Tester sans risque
 
 Un script de génération de fichiers factices est fourni pour tester en toute sécurité :
 
@@ -131,33 +131,33 @@ cat ./test_dir/organizer.log
 
 ---
 
-## 📋 Exemple de sortie
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Example" width="25" height="25" /> Exemple de sortie
 
 ```
   ╔═══════════════════════════════════════════════════╗
-  ║          🗂️  ORGANISATEUR DE FICHIERS  🗂️          ║
+  ║            ORGANISATEUR DE FICHIERS              ║
   ║                   Version 1.0.0                  ║
   ╚═══════════════════════════════════════════════════╝
 
-  📁 Répertoire cible : /home/user/Téléchargements
+  Répertoire cible : /home/user/Téléchargements
   ─────────────────────────────────────────────────
-  ✅ 'photo_vacances.jpg' → Téléchargements/Images/
-  ✅ 'rapport.pdf'        → Téléchargements/Documents/
-  ✅ 'film.mp4'           → Téléchargements/Vidéos/
-  ⚠️  'backup.zip' existe déjà dans 'Archives/' → ignoré
+  [OK] 'photo_vacances.jpg' → Téléchargements/Images/
+  [OK] 'rapport.pdf'        → Téléchargements/Documents/
+  [OK] 'film.mp4'           → Téléchargements/Vidéos/
+  [!!] 'backup.zip' existe déjà dans 'Archives/' → ignoré
 
   ════════════════════ RÉSUMÉ ════════════════════
-  ✅ Fichiers déplacés : 3
-  ⏭️  Fichiers ignorés   : 1
-  ❌ Erreurs            : 0
+  [OK] Fichiers déplacés : 3
+  [>>] Fichiers ignorés  : 1
+  [XX] Erreurs           : 0
   ════════════════════════════════════════════════
 
-  Organisation terminée avec succès ! 🎉
+  Organisation terminée avec succès !
 ```
 
 ---
 
-## 📄 Structure du projet
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Structure" width="25" height="25" /> Structure du projet
 
 ```
 bash_project/
@@ -177,7 +177,7 @@ bash_project/
 
 ---
 
-## 🔧 Personnalisation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Customization" width="25" height="25" /> Personnalisation
 
 Pour ajouter une nouvelle catégorie ou extension, éditez le tableau `CATEGORIES` dans `organizer.sh` :
 
@@ -192,18 +192,18 @@ declare -A CATEGORIES=(
 
 ---
 
-## ⚙️ Compatibilité
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Compatibility" width="25" height="25" /> Compatibilité
 
-- ✅ Linux (Ubuntu, Debian, Fedora, Arch...)
-- ✅ macOS (avec Bash 4+ via Homebrew : `brew install bash`)
-- ✅ Windows avec WSL (Windows Subsystem for Linux)
-- ✅ Git Bash / MSYS2
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> Linux (Ubuntu, Debian, Fedora, Arch...)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> macOS (avec Bash 4+ via Homebrew : `brew install bash`)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> Windows avec WSL (Windows Subsystem for Linux)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> Git Bash / MSYS2
 
 > **Note :** Le script requiert **Bash 4.0+** pour les tableaux associatifs (`declare -A`).  
 > Vérifiez avec `bash --version`.
 
 ---
 
-## 📜 Licence
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="License" width="25" height="25" /> Licence
 
 MIT © 2026 — Libre d'utilisation, modification et distribution.
